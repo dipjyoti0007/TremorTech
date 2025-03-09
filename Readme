@@ -1,0 +1,39 @@
+Tremor Tech
+
+📌 Project Overview
+
+Tremor Tech is an innovative, non-invasive wearable device designed to manage Parkinson’s tremors using vibrotactile therapy. The device utilizes controlled vibrations to desynchronize abnormal neuronal firing patterns, effectively reducing tremors and improving motor control for patients.
+
+🌟 Features
+
+Non-invasive & Drug-free: No medications or surgical procedures required.
+
+Vibrotactile Therapy: Uses precise vibrations to counteract tremors.
+
+Flexible & Wearable: Comfortable limb band designed for daily use.
+
+Semi-automatic Operation: Works independently with minimal user input.
+
+Affordable Solution: Cost-effective alternative to existing treatments.
+
+🛠️ How It Works
+
+The wearable band detects tremors using integrated sensors.
+
+A microcontroller processes the data and determines optimal vibration patterns.
+
+The device generates controlled vibrations to counteract the tremors.
+
+Users experience reduced involuntary movements, leading to improved motor function.
+
+🔧 Hardware Requirements
+
+Motion Detecting Sensors (GSR)
+
+Microcontroller (Arduino nano for processing)
+
+Vibration Motor (Precision vibrotactile stimulation)
+
+Rechargeable Battery (Portable and long-lasting)
+
+WiFi / Bluetooth Module (For data logging and remote control and uploading data into IoT cloud)
