@@ -73,7 +73,7 @@ A **smart wearable band** that detects tremors in real-time using:
 |-------------------------|----------------------------------------------|
 | 📈 **GSR / EMG Sensors**| Capture tremor-related signals               |
 | 💻 **Arduino Nano**     | Processes & controls output                  |
-| 🔊 **Vibration Motor**  | Delivers haptic feedback to muscles          |
+| 🔊 **Haptic Vibrator Motor (mini)**  | Delivers haptic feedback to muscles          |
 | 🔋 **Battery**          | Rechargeable power supply                    |
 | 📡 **WiFi/Bluetooth**   | Optional for cloud sync & remote monitoring  |
 
