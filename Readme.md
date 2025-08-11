@@ -101,7 +101,6 @@ A **smart wearable band** that detects tremors in real-time using:
 
 - ⚙️ C/C++ (Arduino IDE)  
 - 🔌 Embedded Systems & IoT  
-- ☁️ Cloud Data Sync (optional)  
 - 🧠 Sensor & Biomedical R&D  
 
 ---
