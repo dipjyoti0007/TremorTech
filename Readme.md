@@ -1,6 +1,5 @@
 #  Tremor Tech — Smart Wearable for Parkinson's Tremor Relief 
 
-> **💡 Empowering Independence, Restoring Motion.**  
 Tremor Tech is an innovative  **non-invasive wearable** designed to manage **Parkinson’s Disease (PD)** symptoms like  tremors and  muscle stiffness — using  **vibrotactile therapy** and  **real-time neural response detection**.
 
 ---
@@ -10,10 +9,10 @@ Tremor Tech is an innovative  **non-invasive wearable** designed to manage **Par
 Parkinson's Disease is a  **progressive neurological disorder** affecting mostly older adults (60+).
 
 **🌍 Global Impact**
-- 📈 Prevalence **doubled** in the last 25 years  
-- 👥 **8.5 million+** affected globally (2019)  
-- 😔 **5.8 million DALYs** due to PD  
-- 🧬 15% genetically inherited; others triggered by toxins/heavy metals  
+-  Prevalence **doubled** in the last 25 years  
+-  **8.5 million+** affected globally (2019)  
+-  **5.8 million DALYs** due to PD  
+-  15% genetically inherited; others triggered by toxins/heavy metals  
 
 **🩺 Common Symptoms**
 - Limb & jaw tremors  
@@ -40,30 +39,30 @@ A **smart wearable band** that detects tremors in real-time using:
 
 ## 🌟 Key Features
 
-🛡️ Non-invasive & drug-free — no side effects  
-🔊 Vibrotactile therapy — customized vibrations to calm tremors   
-🩹 Flexible & wearable — skin-friendly band  
-🧠 Semi-automatic — easy one-time calibration  
-☁️ IoT-enabled — optional data sync for doctors & caregivers  
-💸 Affordable — **10× cheaper** than current treatments  
+Non-invasive & drug-free — no side effects  
+Vibrotactile therapy — customized vibrations to calm tremors   
+Flexible & wearable — skin-friendly band  
+Semi-automatic — easy one-time calibration  
+IoT-enabled — optional data sync for doctors & caregivers  
+Affordable — **10× cheaper** than current treatments  
 
 ---
 
 ##  Unique Selling Points
 
-- 🎯 **Targeted Neuromodulation** — stops freezing & early-stage tremors  
-- 💰 **Budget-friendly** — practical for everyday users  
-- 🛡️ **Safe Alternative** — zero meds, zero risks  
-- 🧠 **Clinically Inspired** — meets real-world needs  
+-  **Targeted Neuromodulation** — stops freezing & early-stage tremors  
+-  **Budget-friendly** — practical for everyday users  
+-  **Safe Alternative** — zero meds, zero risks  
+-  **Clinically Inspired** — meets real-world needs  
 
 ---
 
 ## 🔬 How It Works
 
-1. 🧪 **Sensors** detect abnormal tremor signals (GSR + EMG)  
-2. 🧠 **Microcontroller** interprets & analyzes data  
-3. 🔊 **Vibration motor** delivers targeted therapy  
-4. 🧘 **Result:** smoother movement, better control, more freedom  
+1.  **Sensors** detect abnormal tremor signals (GSR + EMG)  
+2.  **Microcontroller** interprets & analyzes data  
+3.  **Vibration motor** delivers targeted therapy  
+4.  **Result:** smoother movement, better control, more freedom  
 
 ---
 
