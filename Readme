@@ -1,27 +1,38 @@
-# 🤖✨ TREMOR TECH — SMART WEARABLE FOR PARKINSON'S TREMOR RELIEF 🧠💪
+<!-- TITLE -->
+<h1 align="center">🤖✨ TREMOR TECH — SMART WEARABLE FOR PARKINSON'S TREMOR RELIEF 🧠💪</h1>
+<h3 align="center"><i>💡 EMPOWERING INDEPENDENCE, RESTORING MOTION.</i></h3>
 
-> **💡 EMPOWERING INDEPENDENCE, RESTORING MOTION.**  
-**Tremor Tech** is an innovative 🛡️ **non-invasive wearable** designed to manage **Parkinson’s Disease (PD)** symptoms like 🌀 tremors and 💢 muscle stiffness — using 🌀 **vibrotactile therapy** and 🧠 **real-time neural response detection**.
+<p align="center">
+<b>Tremor Tech</b> is an innovative 🛡️ <b>non-invasive wearable</b> designed to manage <b>Parkinson’s Disease (PD)</b> symptoms like 🌀 tremors and 💢 muscle stiffness — using 🌀 <b>vibrotactile therapy</b> and 🧠 <b>real-time neural response detection</b>.
+</p>
 
 ---
 
 ## 🚨 PROBLEM STATEMENT
 
-Parkinson's Disease is a 🧬 **progressive neurological disorder** affecting mostly older adults (60+).  
+Parkinson's Disease is a 🧬 **progressive neurological disorder** affecting mostly older adults (60+).
 
-### 📊 GLOBAL IMPACT:
+<details>
+<summary><b>📊 GLOBAL IMPACT (Click to expand)</b></summary>
+
 - 📈 **Prevalence doubled** in last 25 years  
 - 👥 **8.5 million+** affected globally (2019)  
 - 😔 **5.8 million DALYs** due to PD  
 - 🧬 15% genetically inherited; others triggered by 🧪 toxins/heavy metals  
 
-### 🩺 COMMON SYMPTOMS:
+</details>
+
+<details>
+<summary><b>🩺 COMMON SYMPTOMS (Click to expand)</b></summary>
+
 - 🤲 Limb & jaw tremors  
 - 🪵 Muscle rigidity  
 - 🐢 Slowed movement  
 - ⚖️ Balance loss  
 - 👃 Smell impairment  
 - ❗ Sudden freezing → 🤕 falls & accidents  
+
+</details>
 
 > 🧓 In India alone, over **7 million seniors** are living with PD.  
 We need 💸 **affordable**, 🧏‍♂️ **accessible**, and 🧰 **easy-to-use** solutions — **now**.
@@ -31,8 +42,8 @@ We need 💸 **affordable**, 🧏‍♂️ **accessible**, and 🧰 **easy-to-us
 ## 🚀 OUR SOLUTION — 💡 TREMOR TECH
 
 A **smart wearable band** that detects tremors in real-time using:
-- 📊 **GSR (Galvanic Skin Response)**  
-- ⚡ **EMG (Electromyography) sensors**  
+- 📊 **GSR (Galvanic Skin Response)**
+- ⚡ **EMG (Electromyography) sensors**
 
 🔁 It responds with **vibrotactile stimulation** to disrupt abnormal neuronal activity — reducing tremors and restoring motion. 🧘‍♀️🦾
 
@@ -40,12 +51,12 @@ A **smart wearable band** that detects tremors in real-time using:
 
 ## 🌟 KEY FEATURES
 
-🔹 **🛡️ Non-invasive & Drug-free** — no side effects!  
-🔹 **🔊 Vibrotactile Therapy** — customized vibrations to calm tremors  
-🔹 **🩹 Flexible & Wearable** — soft, skin-friendly band  
-🔹 **🧠 Semi-automatic** — easy one-time calibration  
-🔹 **☁️ IoT-Enabled** — optional data sync for doctors & caregivers  
-🔹 **💸 Affordable** — **10× cheaper** than current treatments!
+- 🛡️ **Non-invasive & Drug-free** — no side effects!  
+- 🔊 **Vibrotactile Therapy** — customized vibrations to calm tremors  
+- 🩹 **Flexible & Wearable** — soft, skin-friendly band  
+- 🧠 **Semi-automatic** — easy one-time calibration  
+- ☁️ **IoT-Enabled** — optional data sync for doctors & caregivers  
+- 💸 **Affordable** — **10× cheaper** than current treatments!
 
 ---
 
@@ -69,11 +80,11 @@ A **smart wearable band** that detects tremors in real-time using:
 
 ## 🛠️ HARDWARE COMPONENTS
 
-| ⚙️ Component                | 📝 Description                                 |
-|----------------------------|-----------------------------------------------|
+| ⚙️ Component                 | 📝 Description                               |
+|------------------------------|-----------------------------------------------|
 | 📈 **GSR / EMG Sensors**    | Capture tremor-related signals                |
 | 💻 **Arduino Nano**         | Processes & controls output                   |
-| 🔊 **Vibration Motor**      | Delivers haptic feedback to muscles           |
+| 🔊 **Haptic Vibrators**     | Delivers haptic feedback to muscles           |
 | 🔋 **Rechargeable Battery** | Compact, portable power supply                |
 | 📡 **WiFi / Bluetooth**     | (Optional) For cloud sync & remote monitoring |
 
@@ -81,12 +92,11 @@ A **smart wearable band** that detects tremors in real-time using:
 
 ## 🌐 FUTURE SCOPE
 
-🚀 **AI-enhanced tremor detection** & adaptive therapy  
-📱 **Mobile app** for real-time insights & alerts  
-📊 **Doctor dashboards** for progress tracking  
-🧘 **Rehab integration** for complete neuro-physio solutions
+- 🚀 **AI-enhanced tremor detection** & adaptive therapy  
+- 📱 **Mobile app** for real-time insights & alerts  
+- 📊 **Doctor dashboards** for progress tracking  
+- 🧘 **Rehab integration** for complete neuro-physio solutions
 
 ---
 
 > 🧠 **LET’S MAKE PARKINSON’S CARE SMARTER, SAFER & MORE HUMAN-CENTRIC — TOGETHER.**
-
