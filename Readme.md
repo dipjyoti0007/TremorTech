@@ -44,7 +44,7 @@ Vibrotactile therapy — customized vibrations to calm tremors
 Flexible & wearable — skin-friendly band  
 Semi-automatic — easy one-time calibration  
 IoT-enabled — optional data sync for doctors & caregivers  
-Affordable — **10× cheaper** than current treatments  
+Affordable — than current treatments  
 
 ---
 
