@@ -1,4 +1,4 @@
-# 🩺 Tremor Tech — Smart Wearable for Parkinson's Tremor Relief 
+# 🧬 Tremor Tech — Smart Wearable for Parkinson's Tremor Relief 
 
 Tremor Tech is an innovative  **non-invasive wearable** designed to manage **Parkinson’s Disease (PD)** symptoms like  tremors and  muscle stiffness — using  **vibrotactile therapy** and  **real-time neural response detection**.
 
