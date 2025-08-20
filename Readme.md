@@ -39,12 +39,12 @@ A **smart wearable band** that detects tremors in real-time using:
 
 ## 🌟 Key Features
 
-Non-invasive & drug-free — no side effects  
-Vibrotactile therapy — customized vibrations to calm tremors   
-Flexible & wearable — skin-friendly band  
-Semi-automatic — easy one-time calibration  
-IoT-enabled — optional data sync for doctors & caregivers  
-Affordable — than current treatments  
+- Non-invasive & drug-free — no side effects  
+- Vibrotactile therapy — customized vibrations to calm tremors   
+- Flexible & wearable — skin-friendly band  
+- Semi-automatic — easy one-time calibration  
+- IoT-enabled — optional data sync for doctors & caregivers  
+- Affordable — than current treatments  
 
 ---
 
@@ -70,11 +70,11 @@ Affordable — than current treatments
 
 | Component               | Description                                  |
 |-------------------------|----------------------------------------------|
-| 📈 **GSR / EMG Sensors**| Capture tremor-related signals               |
-| 💻 **Arduino Nano**     | Processes & controls output                  |
-| 🔊 **Haptic Vibrator Motor (mini)**  | Delivers haptic feedback to muscles          |
-| 🔋 **Battery**          | Rechargeable power supply                    |
-| 📡 **WiFi/Bluetooth**   | Optional for cloud sync & remote monitoring  |
+|  **GSR / EMG Sensors**| Capture tremor-related signals               |
+|  **Arduino Nano**     | Processes & controls output                  |
+|  **Haptic Vibrator Motor (mini)**  | Delivers haptic feedback to muscles          |
+|  **Battery**          | Rechargeable power supply                    |
+|  **WiFi/Bluetooth**   | Optional for cloud sync & remote monitoring  |
 
 ---
 
@@ -96,9 +96,9 @@ Affordable — than current treatments
 
 ## 🛠 Built With
 
-- ⚙️ C/C++ (Arduino IDE)  
-- 🔌 Embedded Systems & IoT  
-- 🧠 Sensor & Biomedical R&D  
+- C/C++ (Arduino IDE)  
+- Embedded Systems & IoT  
+- Sensor & Biomedical R&D  
 
 ---
 
