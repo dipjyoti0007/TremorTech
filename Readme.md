@@ -20,7 +20,7 @@ Parkinson's Disease(PD) is a  **progressive neurological disorder** affecting mo
 - Slowed movement  
 - Balance loss  
 - Smell impairment  
-- ❗Sudden freezing → falls & accidents  
+- Sudden freezing → falls & accidents ❗
 
 > In India alone, over **7 million seniors** are living with PD.  
 We need  **affordable**,  **accessible**, and  **easy-to-use** solutions — **now**.
