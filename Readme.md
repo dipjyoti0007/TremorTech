@@ -6,7 +6,7 @@ Tremor Tech is an innovative  **non-invasive wearable** designed to manage **Par
 
 ## 📌 Problem Statement
 
-Parkinson's Disease is a  **progressive neurological disorder** affecting mostly older adults (60+).
+Parkinson's Disease(PD) is a  **progressive neurological disorder** affecting mostly older adults (60+).
 
 **🌍 Global Impact**
 -  Prevalence **doubled** in the last 25 years  
